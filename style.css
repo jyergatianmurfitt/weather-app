@@ -1,0 +1,48 @@
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(35,77,163,1) 18%, rgba(93,228,255,1) 100%);
+}
+
+.container {
+  text-align: center;
+  min-height: 100vh;
+  font-family: sans-serif;
+  color: white;
+}
+
+h1 {
+  padding-top: 80px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+img {
+  width: 200px;
+  height: auto
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 70px;
+  margin: 0px;
+}
+
+h3 {
+  margin: 0px;
+  font-weight: 300;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+.details {
+  padding-top: 40px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+html
+{
+    height:100%;
+}
